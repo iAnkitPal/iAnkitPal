@@ -2,6 +2,11 @@
 
 you will find mostly javascript, and its libraries stuff!
 
+- 🔭 I’m currently working on Angular
+- 💬 Ask me about Javascript and Angular.
+
+
+
 
 
 <!--
